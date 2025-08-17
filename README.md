@@ -1,2 +1,5 @@
+![Moox](profile/moox-banner.jpg)
+
 # .github
-Our GitHub Org
+
+Just a banner for our GitHub Org.
